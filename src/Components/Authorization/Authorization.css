@@ -1,0 +1,34 @@
+.form {
+  background-color: rgb(215, 215, 215);
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.form__title {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.form__email,
+.form__pass {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.form__important {
+  color: brown;
+}
+
+.form__important-text {
+  font-size: 12px;
+}
+
+.form__button {
+  margin-top: 10px;
+  display: flex;
+  line-height: 23px;
+}
+
+.form__button span {
+  margin-right: 5px;
+}

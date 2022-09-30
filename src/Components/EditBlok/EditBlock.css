@@ -1,0 +1,44 @@
+.editBlock {
+  position: absolute;
+  top: 200px;
+  left: 420px;
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding-top: 55px;
+  background-color: #2f3743;
+}
+
+.editBlock__hide {
+  display: none;
+}
+
+.editBlock__close {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+  border: none;
+  background-color: transparent;
+}
+
+.editBlock__close span {
+  color: aliceblue;
+}
+
+.editBlock__form {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+.editBlock__messageError {
+  color: tomato;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.indentDown {
+  margin-bottom: 15px;
+}
