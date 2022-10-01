@@ -1,2 +1,2 @@
 # Чтобы запустить приложение необходимо:
-1. Установить Node.js https://nodejs.org/en/
+1. Установить Node.js [nodejs.org](https://nodejs.org/en/) (у меня v16.14.2)
